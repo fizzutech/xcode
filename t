@@ -468,7 +468,7 @@
         "s4getError3": "document.getElementsByName(\"msg_title\")[0].innerHTML",
         "720pError": "https://ereviewwala.com/Apps/DesiHub/linkServer",
         "480Error": "https://ereviewwala.com/Apps/DesiHub/linkServer480p",
-        "liveFlag":"TRUE",
+        "liveFlag":"FALSE",
         "adsInLiveFlag":true,
         "liveImage":"https://placehold.co/600x150.png",
         "liveServers":"[{'name': 'Server 1', 'url': 'http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8'},{'name': 'Server 2', 'url': 'https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8'},{'name': 'Server 3', 'url': 'https://live-hls-web-aje.getaj.net/AJE/04.m3u8'}]",
