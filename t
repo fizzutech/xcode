@@ -423,6 +423,8 @@
         "anime": "/anime.json",
         "aLinks": "/al.json",
         "category": "/cn.json",
+        "singleServerMVs":true,
+        "singleServerSrs":true,
         "tapLinkLoader": "https://streamta.pe/",
         "notification": "\r\nContact US on mail : ringzstudio@proton.me \r\n\r\n \r\n Some Users Facing App Lagging issue, we will check and fix soon \r\n\r\nJoin Telegram Channel for update..\r\n If face any issue you can report on telegram also\r\n.\r\nRecommended Server : Server 1 then Server 4.\r\n",
         "version": "6.1.0",
