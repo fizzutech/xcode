@@ -477,7 +477,7 @@
         "liveFlag":"TRUE",
         "liveImg":true,
         "liveImage":"https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/IPLMain.jpg",
-        "liveServers":"[{'name': 'Star Sports Hindi', 'url': 'https://istream.x7flix.com/UStream/UTV.php?id=4626'}]",
+        "liveServers":"[{'name': 'Star Sports Hindi', 'url': 'https://istream.x7flix.com/UStream/UTV.php?id=4627'}]",
         "telgramUrl": "https://t.me/ringzstudio",
         "useSecKey": "TRUE",
         "secKey": "0B02E84AF68CB34A49CFDD58C265910198EC0348CE5DE26C14346A665443ECB0",
