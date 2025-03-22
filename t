@@ -477,7 +477,7 @@
         "liveFlag":"TRUE",
         "liveImg":true,
         "liveImage":"https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/IPLMain.jpg",
-        "liveServers":"[{'name': 'Jio Live', 'url': 'https://one.wintoa.store/rtmp/hls/hlslive.m3u8'},{'name': 'TSports', 'url': 'https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8'}]",
+        "liveServers":"[{'name': 'JioHotStar Live', 'url': 'https://one.wintoa.store/rtmp/hls/hlslive.m3u8'},{'name': 'TSports', 'url': 'https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8'}]",
         "telgramUrl": "https://t.me/ringzstudio",
         "useSecKey": "TRUE",
         "secKey": "0B02E84AF68CB34A49CFDD58C265910198EC0348CE5DE26C14346A665443ECB0",
